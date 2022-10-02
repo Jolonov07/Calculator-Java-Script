@@ -47,7 +47,7 @@ button {
 	height: 90px;
 	margin: 10px;
   cursor: pointer;
-  transition: .3s ease-in-out !important;
+  transition: .3s ease-in !important;
 }
 button:hover {
 	background: #fff;
@@ -55,4 +55,5 @@ button:hover {
 }
 button:active {
 	background: #322f34;
+	color: white;
 }
